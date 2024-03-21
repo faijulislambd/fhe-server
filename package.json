@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/faijulislambd/fhe-server/issues"
   },
-  "homepage": "https://github.com/faijulislambd/fhe-server#readme"
+  "homepage": "https://github.com/faijulislambd/fhe-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "mongodb": "^6.5.0"
+  }
 }
