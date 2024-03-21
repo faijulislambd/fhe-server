@@ -1,0 +1,19 @@
+{
+  "name": "fhe-server",
+  "version": "1.0.0",
+  "description": "This is a server to keep a record of all my expenses in the cloud",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faijulislambd/fhe-server.git"
+  },
+  "author": "Fuad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faijulislambd/fhe-server/issues"
+  },
+  "homepage": "https://github.com/faijulislambd/fhe-server#readme"
+}
